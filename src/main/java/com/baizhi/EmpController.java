@@ -20,6 +20,7 @@ public class EmpController {
         for (Emp emp : list) {
             System.out.println(emp);
         }
+        System.out.println("nihao a ");
         return list;
     }
 }
